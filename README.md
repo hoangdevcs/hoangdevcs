@@ -31,7 +31,7 @@ I have a diverse skill set, which includes but is not limited to:
 
 ## Follow Me
 
-[![LinkedIn])]([https://www.linkedin.com/in/hoangcurlyit](https://www.linkedin.com/in/hoangdevcs/))
+[![LinkedIn])](https://www.linkedin.com/in/hoangdevcs/)
 
 [![Facebook])](https://www.facebook.com/curly.uit) 
 
